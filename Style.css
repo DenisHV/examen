@@ -1,0 +1,11 @@
+*{
+    margin: auto;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+}
+.estilo{
+    display: flex;
+}
